@@ -11,7 +11,6 @@ I'm passionate about building **production-grade AI systems**. From agentic RAG 
 
 I love to work on real systems, real deployments, and learn along the way. 
 
----
 
 ## 🔗 Connect
 
@@ -24,7 +23,6 @@ I love to work on real systems, real deployments, and learn along the way.
   </a>
 </div>
 
----
 
 ## 💻 Tech Stack
 
@@ -59,7 +57,7 @@ I love to work on real systems, real deployments, and learn along the way.
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,dart,git,vscode,linux&theme=dark)](https://skillicons.dev)
  
 </div>
----
+
 
 ## 📊 GitHub Stats
 
@@ -72,7 +70,6 @@ I love to work on real systems, real deployments, and learn along the way.
 </div>
 
 
----
 
 ## 🏆 GitHub Trophies
 
