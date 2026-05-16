@@ -6,13 +6,8 @@
 
 ## 💫 About Me
 
-I'm a Computer Science student at **Information Technology University of the Punjab** (2023–2027), passionate about building **production-grade systems** that sit at the intersection of AI and real-world utility.
-
-My work spans full-stack web, cross-platform mobile, and AI/ML — from shipping Flutter apps on the Play Store to fine-tuning YOLO models for edge deployment. I gravitate toward problems that demand end-to-end thinking: **RAG pipelines**, **offline-first mobile architectures**, **agentic AI systems**, and **automated data workflows**.
-
-When I'm not building, I'm studying — recently completing both the Machine Learning and Deep Learning specializations from DeepLearning.AI, and placing 🥈 Runner-Up at CodeRush '26 in App Development.
-
-Feel free to explore my projects and connect if you'd like to collaborate!
+I'm passionate about building **production-grade AI systems** — from agentic RAG pipelines and LLM-powered assistants to computer vision models that run on-device at the edge. I enjoy tackling problems end-to-end: designing the backend, shipping the mobile app, and engineering the AI layer that ties it all together. 
+I love to work on real systems, real deployments, and learn along the way. Feel free to explore my projects and connect if you'd like to collaborate!
 
 ---
 
