@@ -1,13 +1,15 @@
+
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhan;Always+learning%2C+always+shipping" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhan;Always+learning%2C+always+shipping" />
   </a>
 </div>
 
 ## 💫 About Me
 
-I'm passionate about building **production-grade AI systems** — from agentic RAG pipelines and LLM-powered assistants to computer vision models that run on-device at the edge. I enjoy tackling problems end-to-end: designing the backend, shipping the mobile app, and engineering the AI layer that ties it all together. 
-I love to work on real systems, real deployments, and learn along the way. Feel free to explore my projects and connect if you'd like to collaborate!
+I'm passionate about building **production-grade AI systems**. From agentic RAG pipelines and LLM-powered assistants to computer vision models that run on-device at the edge. 
+
+I enjoy tackling problems end-to-end: designing the backend, shipping the mobile app, and engineering the AI layer that ties it all together. I love to work on real systems, real deployments, and learn along the way. 
 
 ---
 
