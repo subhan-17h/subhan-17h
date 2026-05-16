@@ -90,50 +90,6 @@ Feel free to explore my projects and connect if you'd like to collaborate!
 
 ---
 
-## 🚀 Featured Projects
-
-### [Qemat](https://github.com/subhan-17h) — Price Comparison Platform
-> Flutter · Next.js · FastAPI · PostgreSQL · Firebase
-
-A multi-client production system released on the **Google Play Store**. Features a hybrid data architecture with offline-first delivery, automated weekly price-update pipelines (scraping → validation → Firestore), and a containerized backend on Oracle Cloud.
-
----
-
-### [MYMIND](https://github.com/subhan-17h) — Personal Academic Assistant
-> React · FastAPI · PostgreSQL · OpenAI Embeddings · Groq LLM
-
-Full-stack student productivity platform with a **hybrid RAG chat architecture**, Google Classroom OAuth integration, deterministic context computation (deadlines, free slots, workload warnings), and LLM-refined daily planning.
-
----
-
-### [PMPEDIA](https://github.com/subhan-17h) — PM Standards Agentic RAG Assistant
-> React · FastAPI · ChromaDB · sentence-transformers · OpenAI API
-
-Agentic RAG system over PMBOK7, PRINCE2, and ISO 21502 with domain-guarding, rule-based intent classification, standard routing, coverage scoring, and corrective query rewriting — with full agent trace observability.
-
----
-
-### [Pothole Detection System](https://github.com/subhan-17h) — ADAS Perception Pipeline
-> Python · PyTorch · YOLO11 · OpenCV · Core ML
-
-Fine-tuned YOLO11 for pothole detection and segmentation. Achieved **0.9821 mAP@50** for detection and **0.9856 box mAP@50** for segmentation. Validated on-device inference on mobile hardware for ADAS use cases.
-
----
-
-### [MindDrop](https://github.com/subhan-17h) — Privacy-First Voice to Task
-> Flutter · FastAPI · OpenAI Whisper · PostgreSQL · Redis
-
-Cross-platform voice-to-task assistant with on-device speech transcription via **Core ML on iOS** (audio never leaves the device), TickTick OAuth2 sync, Redis rate limiting, and encrypted token storage.
-
----
-
-### [Mano's Basic Computer](https://github.com/subhan-17h) — Full 16-bit Processor in Logisim
-> Logisim · Digital Logic Design · Assembly
-
-Complete implementation of Morris Mano's 16-bit CPU — all 25 instructions, hardwired control unit, 3-phase fetch–decode–execute cycle, with indirect addressing and interrupt handling.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -155,19 +111,6 @@ Complete implementation of Morris Mano's 16-bit CPU — all 25 instructions, har
 ![Trophies](https://github-profile-trophy.vercel.app/?username=subhan-17h&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
-
----
-
-## 🎓 Courses & Achievements
-
-| Achievement | Details |
-|---|---|
-| 🥈 **CodeRush '26** | Runner-up in App Development · Top 5 in ML |
-| 🧠 **Machine Learning Specialization** | DeepLearning.AI — August 2025 |
-| 🤖 **Deep Learning Specialization** | DeepLearning.AI — December 2025 |
-| ⚙️ **AI Automation using Make** | atomcamp — April 2026 |
-
----
 
 <div align="center">
 
