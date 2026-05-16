@@ -62,8 +62,8 @@ I love to work on real systems, real deployments, and learn along the way. Feel 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-subhan-17hs-projects.vercel.app/api?username=subhan-17h&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats-subhan-17hs-projects.vercel.app/api/top-langs/?username=subhan-17h&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" />
+  <img src="https://github-readme-stats-seven-beryl-97.vercel.app/api?username=subhan-17h&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats-seven-beryl-97.vercel.app/api/top-langs/?username=subhan-17h&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=subhan-17h&theme=tokyonight&hide_border=true" height="180" />
