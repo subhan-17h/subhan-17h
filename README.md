@@ -9,7 +9,7 @@
 
 I'm passionate about building **production-grade AI systems**. From agentic RAG pipelines and LLM-powered assistants to computer vision models that run on-device at the edge. 
 
-I enjoy tackling problems end-to-end: designing the backend, shipping the mobile app, and engineering the AI layer that ties it all together. I love to work on real systems, real deployments, and learn along the way. 
+I love to work on real systems, real deployments, and learn along the way. 
 
 ---
 
