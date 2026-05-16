@@ -2,8 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Subhan%20Amir&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CS%20Student%20%7C%20Full-Stack%20%7C%20AI%2FML%20%7C%20Mobile&descAlignY=58&descSize=18" />
 </div>
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhan;I+love+building+software;Full-Stack+%7C+AI%2FML+%7C+Mobile;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
- 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhan;I+love+building+software;Full-Stack+%7C+AI%2FML+%7C+Mobile;Always+learning%2C+always+shipping" />
+  </a>
 </div>
 
 ## 💫 About Me
