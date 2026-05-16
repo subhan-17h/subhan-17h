@@ -14,9 +14,12 @@ I love to work on real systems, real deployments, and learn along the way. Feel 
 ## 🔗 Connect
 
 <div align="center">
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/subhan-amir-8b4a32295)
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:subhanamir102@gmail.com)
- 
+  <a href="https://linkedin.com/in/subhan-amir-8b4a32295">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="mailto:subhanamir102@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
 </div>
 
 ---
